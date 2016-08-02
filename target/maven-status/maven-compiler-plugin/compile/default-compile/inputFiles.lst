@@ -1,0 +1,9 @@
+/home/namal/workspace/demo-cxf-jax-ws/src/main/java/net/webservicex/ObjectFactory.java
+/home/namal/workspace/demo-cxf-jax-ws/src/main/java/net/webservicex/GetQuote.java
+/home/namal/workspace/demo-cxf-jax-ws/src/main/java/net/webservicex/GetQuoteResponse.java
+/home/namal/workspace/demo-cxf-jax-ws/src/main/java/net/webservicex/package-info.java
+/home/namal/workspace/demo-cxf-jax-ws/src/main/java/net/webservicex/StockQuoteSoap.java
+/home/namal/workspace/demo-cxf-jax-ws/src/main/java/net/webservicex/StockQuoteHttpPost.java
+/home/namal/workspace/demo-cxf-jax-ws/src/main/java/CxfJaxWsClient.java
+/home/namal/workspace/demo-cxf-jax-ws/src/main/java/net/webservicex/StockQuoteHttpGet.java
+/home/namal/workspace/demo-cxf-jax-ws/src/main/java/net/webservicex/StockQuote.java

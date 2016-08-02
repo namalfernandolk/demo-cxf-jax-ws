@@ -1,0 +1,9 @@
+CxfJaxWsClient.class
+net/webservicex/StockQuoteSoap.class
+net/webservicex/package-info.class
+net/webservicex/GetQuote.class
+net/webservicex/StockQuote.class
+net/webservicex/StockQuoteHttpGet.class
+net/webservicex/ObjectFactory.class
+net/webservicex/GetQuoteResponse.class
+net/webservicex/StockQuoteHttpPost.class
