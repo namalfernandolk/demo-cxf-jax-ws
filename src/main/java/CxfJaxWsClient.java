@@ -22,6 +22,8 @@ public class CxfJaxWsClient {
 	protected StockQuoteSoap createCXFClient() {
 	    // we use CXF to create a client for us as its easier than JAXWS and works
 	    JaxWsProxyFactoryBean factory = new JaxWsProxyFactoryBean();
+	    System.out.println("createCXFClient().factory : " + factory);
+
 	    factory.setServiceClass(StockQuoteSoap.class);
 	    factory.setAddress("http://www.webservicex.net/stockquote.asmx");
 	    return (StockQuoteSoap) factory.create();
